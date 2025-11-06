@@ -1,16 +1,64 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Sheen+in+Ops+!" alt="Mina in Ops Animation" />
+</p>
 
-<!--
-**MinaShahir/MinaShahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://gh-most-followed.pages.dev/egypt">
+    <img src="https://img.shields.io/badge/DevOps%20Explorer%20🇪🇬-1E1E2E?style=flat-square&logo=github&logoColor=00C3FF" style="height:32px; object-fit:contain;"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Mina Shahir</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">DevOps Enthusiast | Cloud & Infrastructure Learner</h2>
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automate+Everything;Build+Smart+Infrastructure;Keep+Learning+Everyday&font=Fira%20Code&center=true&color=00E5FF&pause=2000">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MinaShahir&style=flat&color=00BFBF" style="height:30px; object-fit:contain;"/>
+</p>
+
+<p align="center">
+  <a href="https://docs.google.com/document/d/1cH4sGlK7vgWr4TtHx2jZxJ9zegrEhE6c/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="mailto:minashahir@yahoo.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" height="45"/>
+  </a> &nbsp;
+  <a href="https://www.linkedin.com/in/mina-shahir-970952152/">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="45"/>
+  </a> &nbsp;
+  <a href="https://github.com/MinaShahir">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="45"/>
+  </a>
+</p>
+
+---
+
+### 🛠️ Top Skills & Tools
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,docker,kubernetes,terraform,jenkins,aws,ansible,githubactions,prometheus,grafana,bash,python&perline=6" style="height:120px;"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&center=true&vCenter=true&color=00E5FF&width=600&lines=🚀+Continuously+Learning+and+Building+Better+Systems;⚙️+Embracing+Automation+and+Cloud+Innovation;💡+Sharing+Knowledge+and+Growing+Together" alt="Motivational Typing Animation"/>
+</p>
+
+---
+![](https://github.com/MinaShahir/MinaShahir/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+<p align="center">
+  <i>✨ Automate • Scale • Deliver — My DevOps Journey Continues ✨</i>
+</p>

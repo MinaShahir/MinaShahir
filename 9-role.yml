@@ -1,8 +1,0 @@
-apiVersion: rbac.authorization.kubernetes.io/v1
-kind: Role
-metadata:
-  name: read-pods
-rules:
-  - apiGroups: [""]
-    resources: ["pods"]
-    verbs: ["get","list"]

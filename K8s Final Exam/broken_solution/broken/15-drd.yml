@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: drd-api
+spec:
+  strategy:
+    type: RollingUpdate  # CHANGED: 'OnShot' is not a valid Deployment strategy. Valid values: 'RollingUpdate' or 'Recreate'. Changed to 'RollingUpdate'.
+    rollingUpdate:
+      maxSurge: 25%       # CHANGED: Added sensible rollingUpdate defaults for RollingUpdate strategy.
+      maxUnavailable: 25% # CHANGED: Added sensible rollingUpdate defaults for RollingUpdate strategy.
+  replicas: 3
+  selector:
+    matchLabels:
+      app: drd
+  template:
+    metadata:
+      labels:
+        app: drd
+    spec:
+      containers:
+        - name: api
+          image: nginx

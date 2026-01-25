@@ -1,6 +1,0 @@
-Deploy a Redis cluster requiring stable storage and stable network identity.
-Requirements:
-StatefulSet redis-db
-3 replicas
-VolumeClaimTemplate for /data
-Headless service: redis

@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1qTUzhZSRzOxL_Gsimx0s5dG6Glf3aMIa?usp=drive_link&ouid=108503055448073464652&rtpof=true&sd=true">
+  <a href="https://drive.google.com/file/d/1zfAgImJt90FBnaCR5nehtFw2_J33RXMc/view?usp=drive_link&ouid=108503055448073464652&rtpof=true&sd=true">
     <img src="https://img.shields.io/badge/My%20CV-00796B?style=flat-square&logo=googledrive&logoColor=white" style="height:34px; object-fit:contain;"/>
   </a>
 </p>
